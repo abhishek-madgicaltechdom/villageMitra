@@ -1,0 +1,3 @@
+<!-- Problem: Any error over files that are not ‘js’,’jsx’, ‘ts’, or ‘tsx’ extension files -->
+*.css
+*.svg
